@@ -2,8 +2,6 @@ package design;
 
 import org.junit.Test;
 
-import javax.crypto.KeyGenerator;
-import java.text.DateFormat;
 
 /**
  * 简单工厂模式
